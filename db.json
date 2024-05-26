@@ -1,0 +1,132 @@
+{
+  "phone": [
+    {
+      "id": "1",
+      "title": "Samsung Galaxy S23",
+      "price": "$1199",
+      "description": "6.9-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 chip, Triple 108MP camera system, 5000mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Samsung"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy Note 24 Ultra",
+      "price": "$1399",
+      "description": "7.1-inch Dynamic AMOLED display, Exynos 2200 (International) / Snapdragon 8 Gen 2 (USA), Quad 108MP camera system, 5200mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Samsung"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Galaxy Z Flip ",
+      "price": "$1290",
+      "description": "6.7-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 chip, Dual 12MP camera system, 3300mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Samsung"
+    },
+    {
+      "id": "4",
+      "title": "iPhone 15 Pro",
+      "price": "$1499",
+      "description": "6.7-inch Super Retina XDR display, A17 Bionic chip, Triple 12MP camera system with LiDAR, 4500mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Apple"
+    },
+    {
+      "id": "5",
+      "title": "iPhone SE 3",
+      "price": "$699",
+      "description": "4.7-inch Retina HD display, A15 Bionic chip, Single 12MP wide camera, 2400mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Apple"
+    },
+    {
+      "id": "6",
+      "title": "iPhone 14 Mini",
+      "price": "$999",
+      "description": "5.4-inch Super Retina XDR display, A16 Bionic chip, Dual 12MP camera system, 2800mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Apple"
+    },
+    {
+      "id": "7",
+      "title": "Google Pixel 8 Pro",
+      "price": "$1099",
+      "description": "6.8-inch OLED display, Tensor 2 chip, Dual 12.2MP main cameras, 4800mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Google"
+    },
+    {
+      "id": "8",
+      "title": "Google Pixel 7a",
+      "price": "$599",
+      "description": "6.2-inch OLED display, Snapdragon 778G chip, Dual 12.2MP main cameras, 3800mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Google"
+    },
+    {
+      "id": "9",
+      "title": "Google Pixel Fold",
+      "price": "$1599",
+      "description": "7.6-inch Foldable P-OLED display, Tensor 2 chip, Triple 12.2MP main cameras, 4500mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Google"
+    },
+    {
+      "id": "10",
+      "title": "OnePlus 11 Pro",
+      "price": "$999",
+      "description": "6.8-inch Fluid AMOLED display, Snapdragon 8 Gen 2 chip, Quad 108MP main camera system, 4900mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "OnePlus"
+    },
+    {
+      "id": "11",
+      "title": "OnePlus 10T",
+      "price": "$899",
+      "description": "6.6-inch Fluid AMOLED display, Snapdragon 888 chip, Triple 48MP camera system, 4700mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "OnePlus"
+    },
+    {
+      "id": "12",
+      "title": "OnePlus Nord 3",
+      "price": "$699",
+      "description": "6.5-inch Fluid AMOLED display, MediaTek Dimensity 2000 chip, Quad 64MP camera system, 4500mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "OnePlus"
+    },
+    {
+      "id": "13",
+      "title": "Xiaomi Mi 13 Ultra",
+      "price": "$1199",
+      "description": "6.81-inch AMOLED display, Snapdragon 8 Gen 2 chip, 200MP main camera, 5000mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": "14",
+      "title": "Xiaomi Redmi Note 12 Pro",
+      "price": "$399",
+      "description": "6.7-inch IPS LCD display, MediaTek Dimensity 1200 chip, Quad 108MP camera system, 4500mAh battery.",
+      "image": "https://img.freepik.com/free-vector/realistic-smartphone-display-with-apps_23-2148374064.jpg?t=st=1716703762~exp=1716707362~hmac=d3b16fe8138c85599f15ceea914cc21122a6738fd8811d5cb51829bab8fa960d&w=740",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": "17",
+      "price": "40,000.",
+      "title": "Huawei Nova 7 Pro 5G",
+      "brand": "Huawei",
+      "description": " 6.57 inches, 106.0 cm2 (~89.6% screen-to-body ratio), IPS LCD capacitive touchscreen, 16M colors display and resolution 1080 x 2340 pixels, 19.5:9 ratio (~392 ppi density). Nova 7 Pro performing Octa-core (1×2.58 GHz Cortex-A76 & 3×2.40 GHz Cortex-A76 & 4×1.84 GHz Cortex-A55), HiSilicon Kirin 985 5G (7 nm) processor. It has 8 GB of RAM and 128/256 GB internal storage",
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2020/04/Huawei-Nova-7-Pro-5G-Purple-500x500.jpg"
+    },
+    {
+      "id": "18",
+      "price": "40,000.",
+      "title": "Ulefone Armor 25T Pro",
+      "brand": "Ulefone",
+      "description": "display of Armor 25T Pro is a 6.78-inch IPS LCD panel with 1080 x 2460 pixels resolution. Secondly, the display is protected with a Plastic frame and plastic back glass. Armor 25T Pro phone has a dual-camera setup on the back. This formation consists of a 64MP, 2MP camera. It has a 50MP selfie camera inside the punch hole of the display.",
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/05/Ulefone-Armor-25T-Pro.webp"
+    }
+  ]
+}
