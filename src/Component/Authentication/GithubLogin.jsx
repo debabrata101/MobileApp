@@ -14,7 +14,7 @@ const GithubLogin = () => {
         <button onClick={handleSignIn} className="btn w-full">
         <div className="flex items-center gap-2">
           <FaGithub size={24} />
-          <p>Google</p>
+          <p>GitHub</p>
         </div>
       </button>
     );
