@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import GoogleLogin from "../Component/Authentication/GoogleLogin";
 import { useAuthState, useSignInWithEmailAndPassword } from "react-firebase-hooks/auth";
 import { auth } from "../Firebase/firebase.config";
+import GithubLogin from "../Component/Authentication/GithubLogin";
 
 const Login = () => {
   const navigate = useNavigate();
@@ -76,6 +77,9 @@ const Login = () => {
           </div>
           <div className="mt-6">
             <GoogleLogin />
+          </div>
+          <div className="mt-6">
+            <GithubLogin />
           </div>
           <div className="mt-6">
             <p>

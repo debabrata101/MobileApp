@@ -4,8 +4,9 @@ import {
   useCreateUserWithEmailAndPassword,
 } from "react-firebase-hooks/auth";
 import { auth } from "../Firebase/firebase.config";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import GoogleLogin from "../Component/Authentication/GoogleLogin";
+import GithubLogin from "../Component/Authentication/GithubLogin";
 
 const Register = () => {
   const [name, setName] = useState("");
@@ -116,6 +117,17 @@ const Register = () => {
           </div>
           <div className="mt-6">
             <GoogleLogin />
+          </div>
+          <div className="mt-6">
+            <GithubLogin />
+          </div>
+          <div className="mt-6">
+            <p>
+               You Already Have Account?{""}
+              <Link to="/login" className="text-indigo-500">
+                Login
+              </Link>
+            </p>
           </div>
         </form>
       </div>
